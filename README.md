@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Backends
 - 📫 How to reach me: ... jyoungjk33@hufs.ac.kr
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/lungnaha_coding">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/lungnaha_coding/">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lungnahahd)](https://github.com/anuraghazra/github-readme-stats)
 
