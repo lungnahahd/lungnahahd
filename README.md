@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ... HUFS
-- 🌱 I’m currently learning ... Cloud Computing & Spring & DevOps
+- 🌱 I’m currently learning ... Cloud Computing & Spring & Django
 - 📫 How to reach me... jyoungjk33@hufs.ac.kr
 - 🕸️ My Own Info Blog... https://lungnahablog.herokuapp.com/
 - 👩‍👦‍👦 My Team Site... https://hufsicetime.herokuapp.com/
