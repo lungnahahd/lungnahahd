@@ -9,12 +9,15 @@
 - 🌡 My Tech Blog... https://velog.io/@lungnahahd
 - 🕸️ My Own Skill Blog... https://lungnahablog.herokuapp.com/
 - 👩‍👦‍👦 My Team Site... https://hufsicetime.herokuapp.com/
+- ⚾️ Certificate
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/lungnaha_coding)](https://www.instagram.com/lungnaha_coding)
-
+![화면 캡처 2022-08-15 172932](https://user-images.githubusercontent.com/67555400/185427074-22867ca1-58c2-4e1e-b687-53b0ded575c6.png)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lungnahahd)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyoungjk33)](https://solved.ac/jyoungjk33/)
+
+
+
 
 
 
