@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning ... Cloud Computing & Web Programming
 - 📫 How to reach me... jyoungjk33@hufs.ac.kr
 - 🌡 My Tech Blog... https://velog.io/@lungnahahd
-- 🕸️ My Own Skill Blog... https://lungnahablog.herokuapp.com/
-- 👩‍👦‍👦 My Team Site... https://hufsicetime.herokuapp.com/
 - 🐸 My Team App... https://play.google.com/store/apps/details?id=com.BeHappy.LittleMetaVillage
 - ⚾️ Certificate
 
